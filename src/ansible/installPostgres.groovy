@@ -1,4 +1,4 @@
-package org.yourorganization.ansible
+package ansible
 
 def installPostgres(String server_ip) {
     sh """
